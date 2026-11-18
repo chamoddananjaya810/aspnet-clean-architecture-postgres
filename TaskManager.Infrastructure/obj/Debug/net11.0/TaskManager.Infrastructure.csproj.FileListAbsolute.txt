@@ -1,0 +1,17 @@
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\bin\Debug\net11.0\TaskManager.Infrastructure.deps.json
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\bin\Debug\net11.0\TaskManager.Infrastructure.dll
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\bin\Debug\net11.0\TaskManager.Infrastructure.pdb
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\bin\Debug\net11.0\TaskManager.Application.dll
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\bin\Debug\net11.0\TaskManager.Domain.dll
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\bin\Debug\net11.0\TaskManager.Application.pdb
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\bin\Debug\net11.0\TaskManager.Domain.pdb
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\TaskManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\TaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\TaskManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\TaskManager.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\TaskManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\TaskMana.DD0CDC6B.Up2Date
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\TaskManager.Infrastructure.dll
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\refint\TaskManager.Infrastructure.dll
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\TaskManager.Infrastructure.pdb
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Infrastructure\obj\Debug\net11.0\ref\TaskManager.Infrastructure.dll

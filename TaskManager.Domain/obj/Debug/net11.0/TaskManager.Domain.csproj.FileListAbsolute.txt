@@ -1,0 +1,12 @@
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\bin\Debug\net11.0\TaskManager.Domain.deps.json
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\bin\Debug\net11.0\TaskManager.Domain.dll
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\bin\Debug\net11.0\TaskManager.Domain.pdb
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\obj\Debug\net11.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\obj\Debug\net11.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\obj\Debug\net11.0\TaskManager.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\obj\Debug\net11.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\obj\Debug\net11.0\TaskManager.Domain.dll
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\obj\Debug\net11.0\refint\TaskManager.Domain.dll
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\obj\Debug\net11.0\TaskManager.Domain.pdb
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\obj\Debug\net11.0\ref\TaskManager.Domain.dll
+C:\Users\User\Documents\ASP PACTICAL\TaskManagerApp\TaskManager.Domain\obj\Debug\net11.0\TaskMana.9E5D6C2C.Up2Date

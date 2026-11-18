@@ -1,0 +1,11 @@
+@TaskManager.API_HostAddress = http://localhost:5068
+
+GET {{TaskManager.API_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{TaskManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
